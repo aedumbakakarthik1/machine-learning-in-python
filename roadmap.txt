@@ -1,0 +1,86 @@
+complete road map to be expert in python
+================================================================
+
+
+
+few point to remeber
+================================================================
+. fouce on your end goal
+. keep some time frame in your mind
+. learn everyday ( continous learning)
+. google in your friend (any queries go to hell)
+
+
+part 1
+================================================================
+start with jupyter notebook learn basic syntax  -2 days
+. basic arithmeticoperation
+. control and condition stucture
+. looping for ,while loop
+. user input
+. string
+. integers
+. floating values
+. typecasting
+
+
+part 2
+================================================================
+fouces on in ubuilt data structures  -3 days
+. python strinf and inbuilt functions
+. python list and boolean variables inbuilt functions
+. python set inbuilt functions
+. python dictionary - inbuilt functions
+. python tuple - inbuilt functions
+. function in python
+. lambda in python
+. iterators and generators
+. exception handling and imports library 
+
+
+part 3
+================================================================
+oops in all you need - 4 days
+
+. classes
+. objects
+. methods
+. inheritance
+. polymorphism
+. data abstration
+. encapsulation
+
+part 4
+=============================================================
+librabies with python -2 days
+. numpy - play with arrarys
+. pandas
+. matplotlib
+. seaborn
+. scipy
+
+
+path towords specialization
+================================================================
+. framwork for web development
+. framework for building desktop applications
+. further librabies for machine learning and deep learning 
+
+
+
+combined framworks for machine learning and deep learning
+==============================================================
+. numpy
+. pandas
+. flask
+. django
+. dask
+. scipy
+. matplotlib
+. seaborn
+. cuba
+. keras
+. caffe
+. tensorflow
+. pytouch
+. sklearn
