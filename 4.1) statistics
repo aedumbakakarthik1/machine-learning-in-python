@@ -1,0 +1,61 @@
+STATISTICS
+
+
+Statistics is the study and manipulation of data, including ways to gather, review, analyze, and draw conclusions from data.
+
+now we will discuss about two types of statistics
+
+1) population statistics 
+2) sample statistics
+
+population statistics
+================================================================
+population statistics was divided into two types of means
+1)mode
+2)median 
+
+same as population statistics , sample statistics also divided into two types 
+
+sample statistics
+================================================================
+sample statistics was divided into two types of means
+1)mode
+2)median 
+
+
+** where here the median and mode are measure of control tendency
+
+3) randam variable
+================================================================
+1) contiouns variable
+2) direcrte variable
+
+
+
+population statistics
+********************************
+let us take a example that our output is that we want to found the average height of all the people in a state for example(AP)
+in Ap if we have 1 million people
+we want to take all the people height and we need to do average of them
+
+***********************************
+** Population Mean (μ) = ∑X / N  **
+***********************************
+
+sample statistics
+********************************
+
+** now what happens mean that it is vary hard to take that 1 million people heigth so that we take same people height sample that  called sample 
+
+***********************************
+**     x̄ = ( Σ xi ) / n.       ****
+***********************************
+
+NOTE:
+in size 
+ 
+population statistics > sample statistics
+ 
+if the sample size increases more
+it may population statistics ~= sample statistics
+
