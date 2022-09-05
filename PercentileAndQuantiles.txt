@@ -1,0 +1,28 @@
+For examples we have 10 people of height in cm
+
+
+and there are {168 , 158 , 188 , 199 , 172 ,175 , 166 , 173 , 180 ,182 }
+
+now we need to sort the height
+height ={ 158 , 166 ,168 , 172 , 173 , 175 , 180 , 182 , 188 , 199 }
+#number =  1     2    3     4      5    6     7     8     9     10
+** here the 50% of the height number 5 
+
+after we sorting the the height if we atke 5 person that is 173cm(height) therefor we can know that 50 % percentile of the height is less that 173
+
+* if you take 2 as 20 % od the height list in postion 2 is 166cm(height) therefor you can know that 20 % percentile of the height is  less that 166
+* if you take 9 as 90 % od the height list in postion 9 is 188cm (height) therefor you can know that 90 % percentile of the height is less that 188
+
+
+so this is called percentile
+
+****************************************************************
+ now that is Quantiles 
+form above we writen 3 Quantiles
+they are
+20% as 1st Quantiles,
+50% as 2nd Quantiles, and
+90% as 3rd Quantiles
+
+so if anyone as that is the 3rd Quantile
+we need to answer as 90 % of people have in less than 188 cm height
